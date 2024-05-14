@@ -1,0 +1,11 @@
+Download and Install
+1. Vs Code
+2. Git
+3. Python 3.11.X (When installing check add to path in
+                  the first installation window)
+
+
+Create an account on
+1. github.com (ensure your username is not very unofficial)
+2. netlify.com
+3. hackerrank.com
